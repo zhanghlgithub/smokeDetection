@@ -1,0 +1,6 @@
+model_checkpoint_path: "smoke_model-999"
+all_model_checkpoint_paths: "smoke_model-919"
+all_model_checkpoint_paths: "smoke_model-939"
+all_model_checkpoint_paths: "smoke_model-959"
+all_model_checkpoint_paths: "smoke_model-979"
+all_model_checkpoint_paths: "smoke_model-999"
